@@ -1,0 +1,9 @@
+Wyniki gry w Oczko:
+
+Nazwa:		Punkty:		Karty:
+asd		21		8  2  J  2  7  
+afgh		25		K  D  A  
+ert		15		3  Q  2  7  
+bot1		22		4  K  4  D  
+bot2		22		D  6  6  
+bot3		20		J  4  6  8  

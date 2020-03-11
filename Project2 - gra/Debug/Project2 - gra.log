@@ -1,0 +1,10 @@
+﻿  Bot.cpp
+  Gracz.cpp
+  Karta.cpp
+  Kasyno.cpp
+  Source.cpp
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Project2 - gra\Project2 - gra\Source.cpp(9): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Project2 - gra\Project2 - gra\Kasyno.cpp(103): warning C4715: "Kasyno::daj_karte”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Project2 - gra\Project2 - gra\Karta.cpp(38): warning C4715: "Karta::operator==”: niewszystkie ścieżki kodu zwracają wartość
+  Project2 - gra.vcxproj -> C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Project2 - gra\Debug\Project2 - gra.exe
